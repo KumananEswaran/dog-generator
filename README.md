@@ -9,7 +9,7 @@ Through building a web application using only HTML, CSS, and JavaScript and inte
 
 ## Optimizations
 
-When I update improve this project, I would consider adding new features that enhance the application's functionality or value to users. For example, I would add the ability to filter dogs by breed or size, or allow users to save their favorite dogs to a list.
+When I  improve this project, I would consider adding new features that enhance the application's functionality or value to users. For example, I would add the ability to filter dogs by breed or size, or allow users to save their favorite dogs to a list.
 
 ## Lessons Learned:
 
