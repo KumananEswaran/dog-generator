@@ -1,5 +1,9 @@
 ﻿# Dog-Generator: <a target="_blank" href="https://dog-generator-api.netlify.app">Visit Here</a>
  
+<a href="https://dog-generator-api.netlify.app" target="_blank">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVhMDNmNjBjODFiMTZiM2U5OWNlNzdlZTliM2MzMjg1MGIwODU5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HeOnxlRw2MsW2fCYPU/giphy.gif" width="100%" alt="dog-generator"/>
+</a>
+ 
 ### Creates a totally random dog, with a unique name 
 
 ## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
